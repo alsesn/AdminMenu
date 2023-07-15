@@ -1,0 +1,4 @@
+segasha\adminmenu\commands\ManageCommand.class
+segasha\adminmenu\listeners\MenuListeners.class
+segasha\adminmenu\menus\ManageMenu.class
+segasha\adminmenu\AdminMenu.class

@@ -1,0 +1,11 @@
+name: AdminMenu
+version: '1.0-SNAPSHOT'
+main: segasha.adminmenu.AdminMenu
+api-version: '1.19'
+
+commands:
+  manage:
+    description: Manage a player
+    usage: /manage <player>
+    permission: manage.player
+    permission-message: You don't have permission to use this command
